@@ -453,8 +453,8 @@ UWAGA: Pamiętaj, by uczyć się ćwicząc, a nie pamięciowo.
 
   5. Wpisz  c$ , popraw koniec wiersza i wciśnij <ESC>.
 
----> Koniec tego wiersza musi być poprawiony, aby wyglądał tak, jak drugi.
----> Koniec tego wiersza musi być poprawiony, aby wyglądał tak, jak drugi.
+---> Koniec tego wiersza musi być poprawiony używając polecenia  c$ .
+---> Koniec tego wiersza musi być poprawiony używając polecenia  c$ .
 
 UWAGA:  Możesz używać <BS> aby poprawiać błędy w czasie pisania.
 
